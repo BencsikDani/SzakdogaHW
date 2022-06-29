@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=TOP.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_Components|SchDesignator=U_Components|FileName=Components.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Components.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_InputOutput|SchDesignator=U_InputOutput|FileName=InputOutput.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=InputOutput.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_RaspberryPinout|SchDesignator=U_RaspberryPinout|FileName=RaspberryPinout.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=RaspberryPinout.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

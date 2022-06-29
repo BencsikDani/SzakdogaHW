@@ -1,0 +1,4 @@
+Added Component: Designator=CTB1(ONLAB_SORK_2_RN3.50)
+Added Pin To Net: NetName=NetCTB1_1 Pin=CTB1-1
+Added Pin To Net: NetName=NetCTB1_2 Pin=CTB1-2
+Added Member To Class: ClassName=SmartDevice Member=Component CTB1 Contact Terminal Block

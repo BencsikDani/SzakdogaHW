@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: OkosEszkozBoard.PcbDoc   2021. 09. 28.  16:57:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : OkosEszkozBoard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             6         PTH        3.22inch (81.89mm)
+T2      32mil (0.8mm)                                             Round             2         PTH        0.30inch (7.62mm)
+T3      37mil (0.93mm)                                            Round             3         PTH        0.10inch (2.54mm)
+T4      41mil (1.039mm)                                           Round             38        PTH        6.70inch (170.18mm)
+T5      49mil (1.25mm)                                            Round             2         PTH        0.30inch (7.62mm)
+T6      55mil (1.4mm)                                             Round             2         PTH        0.14inch (3.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              53
+
+Total Processing Time (hh:mm:ss) : 00:00:00

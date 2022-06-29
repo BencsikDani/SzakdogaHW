@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetOC1_1 Pin=TVS1-1
+Removed Pin From Net: NetName=NetCTB1_1 Pin=TVS1-2
+Removed Pin From Net: NetName=NetOC1_3 Pin=TVS2-1
+Removed Pin From Net: NetName=NetCTB2_1 Pin=TVS2-2
+Removed Pin From Net: NetName=NetOC1_5 Pin=TVS3-1
+Removed Pin From Net: NetName=NetCTB3_1 Pin=TVS3-2
+Removed Pin From Net: NetName=NetOC1_7 Pin=TVS4-1
+Removed Pin From Net: NetName=NetCTB4_1 Pin=TVS4-2
+Change Component Footprint: Designator=TVS1 Old Footprint=DIOMELF3515M New Footprint=ONLAB_SMA_DO-214AC
+Change Component Footprint: Designator=TVS2 Old Footprint=DIOMELF3515M New Footprint=ONLAB_SMA_DO-214AC
+Change Component Footprint: Designator=TVS3 Old Footprint=DIOMELF3515M New Footprint=ONLAB_SMA_DO-214AC
+Change Component Footprint: Designator=TVS4 Old Footprint=DIOMELF3515M New Footprint=ONLAB_SMA_DO-214AC
+Added Pin To Net: NetName=NetCTB1_1 Pin=TVS1-A
+Added Pin To Net: NetName=NetOC1_1 Pin=TVS1-K
+Added Pin To Net: NetName=NetCTB2_1 Pin=TVS2-A
+Added Pin To Net: NetName=NetOC1_3 Pin=TVS2-K
+Added Pin To Net: NetName=NetCTB3_1 Pin=TVS3-A
+Added Pin To Net: NetName=NetOC1_5 Pin=TVS3-K
+Added Pin To Net: NetName=NetCTB4_1 Pin=TVS4-A
+Added Pin To Net: NetName=NetOC1_7 Pin=TVS4-K

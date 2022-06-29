@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=14 NewDesignator=D14
+Change Net Name : Old Net Name=Net14_1 New Net Name=NetD14_1
+Added Member To Class: ClassName=U_InputOutput Member=Component D7 Diode
+Added Member To Class: ClassName=U_InputOutput Member=Component D8 Diode
+Added Member To Class: ClassName=U_InputOutput Member=Component D9 Diode
+Added Member To Class: ClassName=U_InputOutput Member=Component D10 Diode

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetCTB1_1 Pin=D7-1
+Removed Pin From Net: NetName=NetD7_2 Pin=D7-2
+Removed Pin From Net: NetName=NetCTB2_1 Pin=D8-1
+Removed Pin From Net: NetName=NetD8_2 Pin=D8-2
+Removed Pin From Net: NetName=NetCTB3_1 Pin=D9-1
+Removed Pin From Net: NetName=NetD9_2 Pin=D9-2
+Removed Pin From Net: NetName=NetCTB4_1 Pin=D10-1
+Removed Pin From Net: NetName=NetD10_2 Pin=D10-2
+Change Component Footprint: Designator=D7 Old Footprint=SMC New Footprint=ONLAB_SMA_DO-214AC
+Change Component Footprint: Designator=D8 Old Footprint=SMC New Footprint=ONLAB_SMA_DO-214AC
+Change Component Footprint: Designator=D9 Old Footprint=SMC New Footprint=ONLAB_SMA_DO-214AC
+Change Component Footprint: Designator=D10 Old Footprint=SMC New Footprint=ONLAB_SMA_DO-214AC
+Added Pin To Net: NetName=NetCTB1_1 Pin=D7-A
+Added Pin To Net: NetName=NetD7_2 Pin=D7-K
+Added Pin To Net: NetName=NetCTB2_1 Pin=D8-A
+Added Pin To Net: NetName=NetD8_2 Pin=D8-K
+Added Pin To Net: NetName=NetCTB3_1 Pin=D9-A
+Added Pin To Net: NetName=NetD9_2 Pin=D9-K
+Added Pin To Net: NetName=NetCTB4_1 Pin=D10-A
+Added Pin To Net: NetName=NetD10_2 Pin=D10-K
+Added Member To Class: ClassName=U_InputOutput Member=Component D7 Diode
+Added Member To Class: ClassName=U_InputOutput Member=Component D8 Diode
+Added Member To Class: ClassName=U_InputOutput Member=Component D9 Diode

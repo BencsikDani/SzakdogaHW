@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=NetD7_1 Pin=K1-C1
+Added Pin To Net: NetName=5V Pin=K1-C2
+Added Pin To Net: NetName=NetCTB5_1 Pin=K1-COM
+Added Pin To Net: NetName=NetCTB5_2 Pin=K1-NO
+Added Pin To Net: NetName=NetD8_1 Pin=K2-C1
+Added Pin To Net: NetName=5V Pin=K2-C2
+Added Pin To Net: NetName=NetCTB6_1 Pin=K2-COM
+Added Pin To Net: NetName=NetCTB6_2 Pin=K2-NO
+Added Pin To Net: NetName=NetD9_1 Pin=K3-C1
+Added Pin To Net: NetName=5V Pin=K3-C2
+Added Pin To Net: NetName=NetCTB7_1 Pin=K3-COM
+Added Pin To Net: NetName=NetCTB7_2 Pin=K3-NO
+Added Pin To Net: NetName=NetD10_1 Pin=K4-C1
+Added Pin To Net: NetName=5V Pin=K4-C2
+Added Pin To Net: NetName=NetCTB8_1 Pin=K4-COM
+Added Pin To Net: NetName=NetCTB8_2 Pin=K4-NO

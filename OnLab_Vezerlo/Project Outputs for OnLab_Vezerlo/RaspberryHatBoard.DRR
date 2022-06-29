@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RaspberryHatBoard.PcbDoc   2021. 09. 28.  17:05:25
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RaspberryHatBoard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             61        PTH        13.44inch (341.38mm)
+T2      32mil (0.8mm)                                             Round             8         PTH        1.51inch (38.37mm)
+T3      35mil (0.899mm)                                           Round             40        PTH        3.90inch (99.06mm)
+T4      43mil (1.1mm)                                             Round             6         PTH        0.50inch (12.70mm)
+T5      47mil (1.199mm)                                           Round             2         PTH        0.79inch (20.00mm)
+T6      49mil (1.25mm)                                            Round             8         PTH        2.41inch (61.23mm)
+T7      55mil (1.4mm)                                             Round             16        PTH        2.50inch (63.51mm)
+T8      79mil (1.999mm)                                           Round             4         PTH        2.77inch (70.40mm)
+T9      108mil (2.751mm)                                          Round             4         NPTH       6.50inch (165.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              149
+
+Total Processing Time (hh:mm:ss) : 00:00:00

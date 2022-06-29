@@ -1,0 +1,22 @@
+Added Component: Designator=R33(FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4K70"; VariantName = "[No Variations]"
+Added Component: Designator=R34(FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4K70"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetE1_6 Pin=R33-1
+Added Pin To Net: NetName=3V3 Pin=R33-2
+Added Pin To Net: NetName=NetE1_5 Pin=R34-1
+Added Pin To Net: NetName=3V3 Pin=R34-2
+Added Member To Class: ClassName=U_InputOutput Member=Component OC1 Optocoupler
+Added Member To Class: ClassName=U_Components Member=Component R33 4K70
+Added Member To Class: ClassName=U_Components Member=Component R34 4K70
+Added Member To Class: ClassName=U_InputOutput Member=Component TVS2 6.4V

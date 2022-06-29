@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [OnLab_Eszkoz.PrjPcb]
+   Generated File[OkosEszkozBoard.TXT]
+   Generated File[OkosEszkozBoard.LDP]
+   Generated File[OkosEszkozBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:57:30 On 2021. 09. 28.
